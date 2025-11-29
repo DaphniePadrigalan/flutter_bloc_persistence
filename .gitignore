@@ -1,0 +1,24 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache
+build/
+# IntelliJ
+*.iml
+.idea/
+# VS Code
+.vscode/
+# macOS
+.DS_Store
+# Generated files
+pubspec.lock
+# Android
+/android/.gradle/
+/android/app/*.iml
+# iOS
+/ios/Pods/
+# Others
+*.log
+
